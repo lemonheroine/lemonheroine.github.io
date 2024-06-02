@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I work at Nanjing University as a Ph.D candidate in Software Engineering, supervised by <a href="https://softeng.nju.edu.cn/faculty/HeZhang/index.html">Prof. He Zhang（张贺）</a>.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am now visiting Groningen University for a programme funded by China Scholarship Council (CSC). During this period, I am advised by <a href="https://www.cs.rug.nl/~paris/">Prof. Paris Avgeriou </a>.
+
+I also collaborate with <a href="https://www.cs.drexel.edu/~yc349/">Yuanfang Cai (Drexel University)</a>, <a href="https://scholar.google.com.hk/citations?user=E86VWYEAAAAJ&hl=zh-CN">Shanshan Li (Nanjing University)</a>, and <a href="https://scholar.google.com.hk/citations?user=b4SXLNEAAAAJ&hl=zh-CN">Daniel Feitosa (Groningen University)</a>.
+
+My research interest includes software architecture and software maintenance and evolution. I have published more than 10 papers at the top international SE conferences and journals such as TSE, JSS, IST, and ICSE.
 
 
 # 🔥 News
