@@ -64,14 +64,14 @@ My research interest includes software architecture and software maintenance and
 - [Microservice architecture in reality: An industrial inquiry](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=St_b4OUAAAAJ&citation_for_view=St_b4OUAAAAJ:9yKSN-GCB0IC), He Zhang, Shanshan Li, Zijia Jia, Chenxing Zhong, Cheng Zhang, **ICSA 2019**
 
 # 🎖 Honors and Awards
-- *2020* Outstanding Minority Student (Top 2%)
-- *2020* Dongliang Scholarship (Top 2%)
+- *2020* Outstanding Minority Student (Top 3%)
+- *2020* Dongliang Scholarship (Top 3%)
 - *2019* National Scholarship for Postgraduates (Top 1%) 
-- *2019* Outstanding Graduate Student (Top 2%)
+- *2019* Outstanding Graduate Student (Top 3%)
 - *2017* Merit Student (Top 1%)
-- *2017* Comprehensive First Class Scholarship (Top 2%)
-- *2016* Comprehensive First Class Scholarship (Top 2%)
-- *2015* "Community" Scholarship (Top 2%)
+- *2017* Comprehensive First Class Scholarship (Top 3%)
+- *2016* Comprehensive First Class Scholarship (Top 3%)
+- *2015* "Community" Scholarship (Top 3%)
 
 # 📖 Educations
 - *2023.11 - 2024.06 (now)*, Visiting Ph.D student, Group of the Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence, Groningen University, Groningen.
