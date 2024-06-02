@@ -19,10 +19,10 @@ redirect_from:
 
 I work at Nanjing University as a Ph.D candidate in Software Engineering, supervised by <a href="https://softeng.nju.edu.cn/faculty/HeZhang/index.html">Prof. He (Jason) Zhang</a>.
 
-I am now visiting Groningen University for a programme funded by China Scholarship Council (CSC). During this period, I am advised by <a href="https://www.cs.rug.nl/~paris/">Prof. Paris Avgeriou</a>.
+I am now visiting Groningen University for a programme funded by China Scholarship Council (CSC). During this period, I am advised by <a href="https://www.cs.rug.nl/~paris/">Prof. Paris Avgeriou</a>. 
 
-I have built a close collaboration with <a href="https://www.cs.drexel.edu/~yc349/">Prof. Yuanfang Cai (Drexel University)</a>, <a href="https://scholar.google.com.hk/citations?user=E86VWYEAAAAJ&hl=zh-CN">Prof. Shanshan Li (Nanjing University)</a>, and <a href="https://scholar.google.com.hk/citations?user=b4SXLNEAAAAJ&hl=zh-CN">Prof. Daniel Feitosa (Groningen University)</a>.
-If you are seeking any form of academic collaboration, please feel free to contact me at <a href=mailto:"chenxingzhong1125@gmail.com">chenxingzhong1125@gmail.com</a>.
+I have also built a close collaboration with <a href="https://www.cs.drexel.edu/~yc349/">Prof. Yuanfang Cai (Drexel University)</a>, <a href="https://scholar.google.com.hk/citations?user=E86VWYEAAAAJ&hl=zh-CN">Prof. Shanshan Li (Nanjing University)</a>, and <a href="https://scholar.google.com.hk/citations?user=b4SXLNEAAAAJ&hl=zh-CN">Prof. Daniel Feitosa (Groningen University)</a>.
+If you are seeking any form of academic collaboration, please feel free to contact me at <a href="mailto:chenxingzhong1125@gmail.com">chenxingzhong1125@gmail.com</a>.
 
 My research interest includes software architecture and software maintenance and evolution. I have published more than 10 papers at the top international SE conferences and journals such as TSE, JSS, IST, and ICSE.
 
