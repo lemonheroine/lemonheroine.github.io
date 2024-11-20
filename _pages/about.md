@@ -19,7 +19,7 @@ redirect_from:
 
 I work at Nanjing University as a Ph.D candidate in Software Engineering, supervised by <a href="https://softeng.nju.edu.cn/faculty/HeZhang/index.html">Prof. He (Jason) Zhang</a>.
 
-I am now visiting Groningen University for a programme funded by China Scholarship Council (CSC). During this period, I am advised by <a href="https://www.cs.rug.nl/~paris/">Prof. Paris Avgeriou</a>. 
+I was visiting Groningen University for a programme funded by China Scholarship Council (CSC). During this period, I was advised by <a href="https://www.cs.rug.nl/~paris/">Prof. Paris Avgeriou</a>. 
 
 I have also built a close collaboration with <a href="https://www.cs.drexel.edu/~yc349/">Prof. Yuanfang Cai (Drexel University)</a>, <a href="https://scholar.google.com.hk/citations?user=E86VWYEAAAAJ&hl=zh-CN">Prof. Shanshan Li (Nanjing University)</a>, and <a href="https://scholar.google.com.hk/citations?user=b4SXLNEAAAAJ&hl=zh-CN">Prof. Daniel Feitosa (Groningen University)</a>.
 If you are seeking any form of academic collaboration, please feel free to contact me at <a href="mailto:chenxingzhong1125@gmail.com">chenxingzhong1125@gmail.com</a>.
@@ -28,6 +28,7 @@ My research interest includes software architecture and software maintenance and
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 One paper accepted by 47th International Conference on Software Engineering (ICSE)
 - *2024.04*: &nbsp;🎉🎉 One paper accepted by IEEE Transactions on Software Engineering (TSE)
 
 # 📝 Publications 
@@ -50,6 +51,7 @@ My research interest includes software architecture and software maintenance and
 [//]: # (</div>)
 
 [//]: # (</div>)
+- [PairSmell: A Novel Perspective Inspecting Software Modular Structure](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=St_b4OUAAAAJ&sortby=pubdate&citation_for_view=St_b4OUAAAAJ:ULOm3_A8WrAC), Chenxing Zhong, Daniel Feitosa, Paris Avgeriou, Huang Huang, Yue Li, He Zhang, **ICSE 2025**.
 - [Domain-Driven Design for Microservices: An Evidence-based Investigation](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=St_b4OUAAAAJ&citation_for_view=St_b4OUAAAAJ:kNdYIx-mwKoC), Chenxing Zhong, Shanshan Li, Huang Huang, Xiaodong Liu, Zhikun Chen, Yi Zhang, He Zhang, **TSE 2024**.
 - [DOMICO: Checking conformance between domain models and implementations](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=St_b4OUAAAAJ&citation_for_view=St_b4OUAAAAJ:3fE2CSJIrl8C), Chenxing Zhong, He Zhang, Huang Huang, Zhikun Chen, Chao Li, Xiaodong Liu, Shanshan Li, **SPE 2024**
 - [Fine-SE: Integrating Semantic Features and Expert Features for Software Effort Estimation](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=St_b4OUAAAAJ&citation_for_view=St_b4OUAAAAJ:0EnyYjriUFMC), Yue Li, Zhong Ren, Zhiqi Wang, Lanxin Yang, Liming Dong, Chenxing Zhong, He Zhang, **ICSE 2024**
