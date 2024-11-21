@@ -77,8 +77,8 @@ My research interest includes software architecture and software maintenance and
 - *2015* "Community" Scholarship (Top 3%)
 
 # 📖 Educations
-- *2018.09 - 2024.06 (now)*, Direct Ph.D student, Software Institute, Nanjing University, Nanjing.
-- *2023.11 - now *, Visiting Ph.D student, Group of the Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence, Groningen University, Groningen.
+- *2018.09 - now*, Direct Ph.D student, Software Institute, Nanjing University, Nanjing.
+- *2023.11 - 2024.11*, Visiting Ph.D student, Group of the Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence, Groningen University, Groningen.
 - *2014.09 - 2018.06*, Undergraduate, College of Software, Nankai University, Tianjin. 
 
 [//]: # (# 💬 Invited Talks)
