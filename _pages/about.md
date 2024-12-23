@@ -28,6 +28,7 @@ My research interest includes software architecture and software maintenance and
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 One paper accepted by IEEE Transactions on Software Engineering (TSE)
 - *2024.11*: &nbsp;🎉🎉 One paper accepted by 47th International Conference on Software Engineering (ICSE)
 - *2024.04*: &nbsp;🎉🎉 One paper accepted by IEEE Transactions on Software Engineering (TSE)
 
@@ -51,6 +52,7 @@ My research interest includes software architecture and software maintenance and
 [//]: # (</div>)
 
 [//]: # (</div>)
+- [Refactoring Microservices to Microservices in Support of Evolutionary Design](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=St_b4OUAAAAJ&sortby=pubdate&citation_for_view=St_b4OUAAAAJ:_kc_bZDykSQC), Chenxing Zhong, Shanshan Li, He Zhang, Huang Huang, Lanxin Yang, Yuanfang Cai, **TSE 2025**
 - [PairSmell: A Novel Perspective Inspecting Software Modular Structure](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=St_b4OUAAAAJ&sortby=pubdate&citation_for_view=St_b4OUAAAAJ:ULOm3_A8WrAC), Chenxing Zhong, Daniel Feitosa, Paris Avgeriou, Huang Huang, Yue Li, He Zhang, **ICSE 2025**
 - [Domain-Driven Design for Microservices: An Evidence-based Investigation](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=St_b4OUAAAAJ&citation_for_view=St_b4OUAAAAJ:kNdYIx-mwKoC), Chenxing Zhong, Shanshan Li, Huang Huang, Xiaodong Liu, Zhikun Chen, Yi Zhang, He Zhang, **TSE 2024**
 - [Towards a security‐optimized approach for the microservice‐oriented decomposition](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=St_b4OUAAAAJ&citation_for_view=St_b4OUAAAAJ:KlAtU1dfN6UC), Xiaodong Liu, Zhikun Chen, Yu Qian, Chenxing Zhong (Corresponding Author), Huang Huang, Shanshan Li, Dong Shao, **JSEP 2024**
