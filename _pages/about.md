@@ -28,6 +28,7 @@ My research interest includes software architecture and software maintenance and
 
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 Our paper accepted by 47'ICSE has been recognized as a Distinguished Paper!
 - *2024.12*: &nbsp;🎉🎉 One paper accepted by IEEE Transactions on Software Engineering (TSE)
 - *2024.11*: &nbsp;🎉🎉 One paper accepted by 47th International Conference on Software Engineering (ICSE)
 - *2024.04*: &nbsp;🎉🎉 One paper accepted by IEEE Transactions on Software Engineering (TSE)
