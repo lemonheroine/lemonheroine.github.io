@@ -28,10 +28,11 @@ My research interest includes software architecture and software maintenance and
 
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 Our paper accepted by 47'ICSE has been recognized as a Distinguished Paper!
+- *2025.03*: &nbsp;🎉🎉 Our paper accepted by 47'ICSE has been recognized as a Distinguished Paper 🎖!
 - *2024.12*: &nbsp;🎉🎉 One paper accepted by IEEE Transactions on Software Engineering (TSE)
 - *2024.11*: &nbsp;🎉🎉 One paper accepted by 47th International Conference on Software Engineering (ICSE)
 - *2024.04*: &nbsp;🎉🎉 One paper accepted by IEEE Transactions on Software Engineering (TSE)
+
 
 # 📝 Publications 
 
@@ -69,6 +70,14 @@ My research interest includes software architecture and software maintenance and
 - [限界上下文视角下的微服务粒度评估](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=St_b4OUAAAAJ&citation_for_view=St_b4OUAAAAJ:2osOgNQ5qMEC), Chenxing Zhong, Shanshan Li, He Zhang, Cheng Zhang, **软件学报 2019**
 - [Microservice architecture in reality: An industrial inquiry](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=St_b4OUAAAAJ&citation_for_view=St_b4OUAAAAJ:9yKSN-GCB0IC), He Zhang, Shanshan Li, Zijia Jia, Chenxing Zhong, Cheng Zhang, **ICSA 2019**
 
+
+# 🌠 Services
+- An invited reviewer of Transactions on Services Computing (TSC)
+- An invited reviewer of Automated Software Engineering (ASE)
+- An invited reviewer of Information and Software Technology (IST)
+- An invited reviewer of Software: Practice and Experience (SPE)
+- An invited reviewer of Innovations in Systems and Software Engineering (ISSE)
+
 # 🎖 Honors and Awards
 - *2020* Outstanding Minority Student (Top 3%)
 - *2020* Dongliang Scholarship (Top 3%)
@@ -84,9 +93,9 @@ My research interest includes software architecture and software maintenance and
 - *2023.11 - 2024.11*, Visiting Ph.D student, Group of the Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence, Groningen University, Groningen.
 - *2014.09 - 2018.06*, Undergraduate, College of Software, Nankai University, Tianjin. 
 
-[//]: # (# 💬 Invited Talks)
+# 💬 Invited Talks
 
-[//]: # (- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+- *2025.04*, Glad to announce that I will present our latest findings at the Outstanding Student Forum of Jiangsu Software Conference (2025.04.13)
 
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
