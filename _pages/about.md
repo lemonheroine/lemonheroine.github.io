@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work at Nanjing University as a Ph.D candidate in Software Engineering, supervised by <a href="https://softeng.nju.edu.cn/faculty/HeZhang/index.html">Prof. He (Jason) Zhang</a>.
+I work at Nanjing University of S as a Ph.D candidate in Software Engineering, supervised by <a href="https://softeng.nju.edu.cn/faculty/HeZhang/index.html">Prof. He (Jason) Zhang</a>.
 
 I was visiting Groningen University for a programme funded by China Scholarship Council (CSC). During this period, I was advised by <a href="https://www.cs.rug.nl/~paris/">Prof. Paris Avgeriou</a>. 
 
@@ -28,6 +28,7 @@ My research interest includes software architecture and software maintenance and
 
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 I joined in Nanjing University of Science and Technology as an Associated Professor!
 - *2025.03*: &nbsp;🎉🎉 Our paper accepted by 47'ICSE has been recognized as a Distinguished Paper 🏆🏆🏆!
 - *2024.12*: &nbsp;🎉🎉 One paper accepted by IEEE Transactions on Software Engineering (TSE)
 - *2024.11*: &nbsp;🎉🎉 One paper accepted by 47th International Conference on Software Engineering (ICSE)
