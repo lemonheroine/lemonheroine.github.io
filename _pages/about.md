@@ -17,22 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work at Nanjing University of S as a Ph.D candidate in Software Engineering, supervised by <a href="https://softeng.nju.edu.cn/faculty/HeZhang/index.html">Prof. He (Jason) Zhang</a>.
+I am currently an <b>Associate Professor in Software Engineering</b> at <b>Nanjing University of Science and Technology (NJUST)</b>. My research focuses on <b>software architecture, software maintenance and evolution, and their interplay with artificial intelligence (e.g., large language models)</b>. I have published around 20 papers in leading international venues such as <b>TSE, JSS, IST, and ICSE</b>, and I was honored with an <b>ACM SIGSOFT Distinguished Paper Award 🏆</b>.
 
-I was visiting Groningen University for a programme funded by China Scholarship Council (CSC). During this period, I was advised by <a href="https://www.cs.rug.nl/~paris/">Prof. Paris Avgeriou</a>. 
+Before joining NJUST, I completed my Ph.D. at <b>Nanjing University</b> under the supervision of <a href="https://softeng.nju.edu.cn/faculty/HeZhang/index.html">Prof. He (Jason) Zhang</a>. I also spent time as a visiting researcher at <b>Groningen University</b>, founded by the <b>China Scholarship Council (CSC)</b>, where I worked with <a href="https://www.cs.rug.nl/~paris/">Prof. Paris Avgeriou</a> and <a href="https://scholar.google.com.hk/citations?user=b4SXLNEAAAAJ&hl=zh-CN">Prof. Daniel Feitosa (Groningen University)</a>. 
 
-I have also built a close collaboration with <a href="https://www.cs.drexel.edu/~yc349/">Prof. Yuanfang Cai (Drexel University)</a>, <a href="https://scholar.google.com.hk/citations?user=E86VWYEAAAAJ&hl=zh-CN">Prof. Shanshan Li (Nanjing University)</a>, and <a href="https://scholar.google.com.hk/citations?user=b4SXLNEAAAAJ&hl=zh-CN">Prof. Daniel Feitosa (Groningen University)</a>.
-If you are seeking any form of academic collaboration, please feel free to contact me at <a href="mailto:chenxingzhong1125@gmail.com">chenxingzhong1125@gmail.com</a>.
+I actively collaborate with internal scholars, including <a href="https://malibabar.wordpress.com/">Prof. Muhammad Ali Babar (The University of Adelaide)</a>, <a href="https://www.cs.drexel.edu/~yc349/">Prof. Yuanfang Cai (Drexel University)</a>, and <a href="https://scholar.google.com.hk/citations?user=E86VWYEAAAAJ&hl=zh-CN">Prof. Shanshan Li (Nanjing University)</a>.
 
-My research interest includes software architecture and software maintenance and evolution. I have published more than 10 papers at the top international SE conferences and journals such as TSE, JSS, IST, and ICSE.
+# 💡 Opportunities
+
+I am always excited to work with <b>motivated students</b> who share a passion for software engineering and computer science. If you are <b>curious, creative, and eager to push boundaries</b>, my group offers an open and supportive environment to grow.
+
+🚀 Join me—and let’s explore the future of software together!
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 I joined in Nanjing University of Science and Technology as an Associated Professor!
-- *2025.03*: &nbsp;🎉🎉 Our paper accepted by 47'ICSE has been recognized as a Distinguished Paper 🏆🏆🏆!
-- *2024.12*: &nbsp;🎉🎉 One paper accepted by IEEE Transactions on Software Engineering (TSE)
-- *2024.11*: &nbsp;🎉🎉 One paper accepted by 47th International Conference on Software Engineering (ICSE)
-- *2024.04*: &nbsp;🎉🎉 One paper accepted by IEEE Transactions on Software Engineering (TSE)
+- *2025.08*: &nbsp;🎉🎉 One project funded by The National Natural Science Foundation of China (NSFC) 🏆!
+- *2025.04*: &nbsp;🎉🎉 I joined in Nanjing University of Science and Technology as an Associated Professor ✨!
+- *2025.03*: &nbsp;🎉🎉 Our paper accepted by 47'ICSE (on software modularization) has been recognized as a Distinguished Paper 🏆🏆🏆!
+- *2025.03*: &nbsp;🎉🎉 One paper on build dependency accepted by IEEE Transactions on Software Engineering (TSE)
+- *2025.02*: &nbsp;🎉🎉 One paper on blockchain design pattern accepted by IEEE Transactions on Software Engineering (TSE)
+- *2024.12*: &nbsp;🎉🎉 One paper on microservices refactoring accepted by IEEE Transactions on Software Engineering (TSE)
+- *2024.11*: &nbsp;🎉🎉 One paper on software modularization accepted by 47th International Conference on Software Engineering (ICSE)
+- *2024.04*: &nbsp;🎉🎉 One paper on domain-driven design accepted by IEEE Transactions on Software Engineering (TSE)
 
 
 # 📝 Publications 
@@ -55,6 +61,8 @@ My research interest includes software architecture and software maintenance and
 [//]: # (</div>)
 
 [//]: # (</div>)
+- [Detecting Build Dependency Errors by Dynamic Analysis of Build Execution against Declaration](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=St_b4OUAAAAJ&sortby=pubdate&citation_for_view=St_b4OUAAAAJ:aqlVkmm33-oC), Jun Lyu, Shanshan Li, Bohan Liu, He Zhang, Guoping Rong, Chenxing Zhong, Xiaodong Liu, **TSE 2025**
+- [Decision Support for Selecting Blockchain-based Application Design Patterns with Layered Taxonomy and Quality Attributes](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=St_b4OUAAAAJ&sortby=pubdate&citation_for_view=St_b4OUAAAAJ:M3ejUd6NZC8C), Yanze Wang, Yiling Huang, Jingyue Li, Shanshan Li, He Zhang, Chenxing Zhong, Xiaodong Liu, Bohan Liu, Yue Liu, Qinghua Lu, Xin Zhou, **TSE 2025**
 - [Refactoring Microservices to Microservices in Support of Evolutionary Design](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=St_b4OUAAAAJ&sortby=pubdate&citation_for_view=St_b4OUAAAAJ:_kc_bZDykSQC), Chenxing Zhong, Shanshan Li, He Zhang, Huang Huang, Lanxin Yang, Yuanfang Cai, **TSE 2025**
 - [PairSmell: A Novel Perspective Inspecting Software Modular Structure](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=St_b4OUAAAAJ&sortby=pubdate&citation_for_view=St_b4OUAAAAJ:ULOm3_A8WrAC), Chenxing Zhong, Daniel Feitosa, Paris Avgeriou, Huang Huang, Yue Li, He Zhang, **ICSE 2025**
 - [Domain-Driven Design for Microservices: An Evidence-based Investigation](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=St_b4OUAAAAJ&citation_for_view=St_b4OUAAAAJ:kNdYIx-mwKoC), Chenxing Zhong, Shanshan Li, Huang Huang, Xiaodong Liu, Zhikun Chen, Yi Zhang, He Zhang, **TSE 2024**
@@ -73,11 +81,13 @@ My research interest includes software architecture and software maintenance and
 
 
 # 🌠 Services
-- An invited reviewer of Transactions on Services Computing (TSC)
-- An invited reviewer of Automated Software Engineering (ASE)
-- An invited reviewer of Information and Software Technology (IST)
-- An invited reviewer of Software: Practice and Experience (SPE)
-- An invited reviewer of Innovations in Systems and Software Engineering (ISSE)
+- Invited reviewer of ACM Transactions on Software Engineering and Methodology (TOSEM)
+- Invited reviewer of Transactions on Services Computing (TSC)
+- Invited reviewer of Automated Software Engineering (ASE)
+- Invited reviewer of Journal of Systems and Software (JSS)
+- Invited reviewer of Information and Software Technology (IST)
+- Invited reviewer of Software: Practice and Experience (SPE)
+- Invited reviewer of Innovations in Systems and Software Engineering (ISSE)
 
 # 🎖 Honors and Awards
 - *2020* Outstanding Minority Student (Top 3%)
@@ -90,7 +100,7 @@ My research interest includes software architecture and software maintenance and
 - *2015* "Community" Scholarship (Top 3%)
 
 # 📖 Educations
-- *2018.09 - now*, Direct Ph.D student, Software Institute, Nanjing University, Nanjing.
+- *2018.09 - 2024.12, Direct Ph.D student, Software Institute, Nanjing University, Nanjing.
 - *2023.11 - 2024.11*, Visiting Ph.D student, Group of the Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence, Groningen University, Groningen.
 - *2014.09 - 2018.06*, Undergraduate, College of Software, Nankai University, Tianjin. 
 
