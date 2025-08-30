@@ -29,6 +29,7 @@ I am always excited to work with <b>motivated students</b> who share a passion f
 
 🚀 Join me—and let’s explore the future of software together!
 
+Please contact me at: [chenxingzhong@njust.edu.cn]
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 One project funded by The National Natural Science Foundation of China (NSFC) 🏆!
