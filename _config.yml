@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chenxing (Cathy) Zhong"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "A researcher, an explorer, and now a teacher—uncovering the future of software engineering."
+  bio              : "A researcher, an explorer, and now a teacher."
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
