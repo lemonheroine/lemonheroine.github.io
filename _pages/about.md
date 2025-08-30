@@ -36,10 +36,6 @@ I am always excited to work with <b>motivated students</b> who share a passion f
 - *2025.03*: &nbsp;🎉🎉 Our paper accepted by 47'ICSE (on software modularization) has been recognized as a Distinguished Paper 🏆🏆🏆!
 - *2025.03*: &nbsp;🎉🎉 One paper on build dependency accepted by IEEE Transactions on Software Engineering (TSE)
 - *2025.02*: &nbsp;🎉🎉 One paper on blockchain design pattern accepted by IEEE Transactions on Software Engineering (TSE)
-- *2024.12*: &nbsp;🎉🎉 One paper on microservices refactoring accepted by IEEE Transactions on Software Engineering (TSE)
-- *2024.11*: &nbsp;🎉🎉 One paper on software modularization accepted by 47th International Conference on Software Engineering (ICSE)
-- *2024.04*: &nbsp;🎉🎉 One paper on domain-driven design accepted by IEEE Transactions on Software Engineering (TSE)
-
 
 # 📝 Publications 
 
