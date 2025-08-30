@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chenxing (Cathy) Zhong"
-description              : "Associate Professor in Nanjing University of Science and Technology. Focusing on Software Architecture, Software Maintenance and Evolution, and Empirical Software Engineering."
+description              : "Associate Professor at Nanjing University of Science and Technology. Contact me at: [chenxingzhong@njust.edu.cn]"
 repository               : "lemonheroine/cathy-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chenxing (Cathy) Zhong"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Nanjing University of Science and Technology"
+  bio              : "A researcher, an explorer, and now a teacher—uncovering the future of software engineering."
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=chenxingzhong1125@gmail.com"
-  email            : "chenxingzhong1125@gmail.com;chenxingzhong@njust.edu.cn"
+#  email            : "chenxingzhong@njust.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
