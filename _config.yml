@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chenxing (Cathy) Zhong"
-description              : "Associate Professor at Nanjing University of Science and Technology."
+description              : "Associate Professor at Nanjing University of Science and Technology"
 repository               : "lemonheroine/cathy-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chenxing (Cathy) Zhong"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "A researcher, an explorer, and now a teacher."
+  bio              : "A researcher, an explorer, and now a teacher"
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
