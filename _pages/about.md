@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an <b>Associate Professor in Software Engineering</b> at <b>Nanjing University of Science and Technology (NJUST)</b>. My research focuses on <b>software architecture, software maintenance and evolution, and their interplay with artificial intelligence (e.g., large language models)</b>. I have published around 20 papers in leading international venues such as <b>TSE, JSS, IST, and ICSE</b>, and I was honored with an <b>ACM SIGSOFT Distinguished Paper Award 🏆</b>.
+I am currently an <b>Associate Professor in Software Engineering</b> at <b>Nanjing University of Science and Technology (NJUST)</b>. My research focuses on <b>software architecture, software maintenance and evolution, and their interplay with artificial intelligence (e.g., large language models)</b>. I have published around 20 papers in leading international venues such as <b>TSE, ICSE, ASE, JSS, and IST</b>, and I was honored with an <b>ACM SIGSOFT Distinguished Paper Award 🏆</b>.
 
 Before joining NJUST, I completed my Ph.D. at <b>Nanjing University</b> under the supervision of <a href="https://softeng.nju.edu.cn/faculty/HeZhang/index.html">Prof. He (Jason) Zhang</a>. I also spent time as a visiting researcher at <b>Groningen University</b>, founded by the <b>China Scholarship Council (CSC)</b>, where I worked with <a href="https://www.cs.rug.nl/~paris/">Prof. Paris Avgeriou</a> and <a href="https://scholar.google.com.hk/citations?user=b4SXLNEAAAAJ&hl=zh-CN">Prof. Daniel Feitosa (Groningen University)</a>. 
 
@@ -32,6 +32,7 @@ I am always excited to work with <b>motivated students</b> who share a passion f
 Please contact me at: [chenxingzhong@njust.edu.cn]
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 One paper on build dependency fixation accepted by IEEE/ACM International Conference on Automated Software Engineering (ASE)
 - *2025.08*: &nbsp;🎉🎉 One project funded by The National Natural Science Foundation of China (NSFC) 🏆!
 - *2025.04*: &nbsp;🎉🎉 I joined in Nanjing University of Science and Technology as an Associated Professor ✨!
 - *2025.03*: &nbsp;🎉🎉 Our paper accepted by 47'ICSE (on software modularization) has been recognized as a Distinguished Paper 🏆🏆🏆!
