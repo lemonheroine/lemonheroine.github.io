@@ -60,6 +60,7 @@ Please contact me at: [chenxingzhong@njust.edu.cn]
 [//]: # (</div>)
 
 [//]: # (</div>)
+- [EISM: An Interactive and Collaborative Approach for Software Modularization](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=St_b4OUAAAAJ&sortby=pubdate&citation_for_view=St_b4OUAAAAJ:9ZlFYXVOiuMC), Chenxing Zhong, Chao Li, He Zhang, **JSS 2025**
 - [Detecting Build Dependency Errors by Dynamic Analysis of Build Execution against Declaration](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=St_b4OUAAAAJ&sortby=pubdate&citation_for_view=St_b4OUAAAAJ:aqlVkmm33-oC), Jun Lyu, Shanshan Li, Bohan Liu, He Zhang, Guoping Rong, Chenxing Zhong, Xiaodong Liu, **TSE 2025**
 - [Decision Support for Selecting Blockchain-based Application Design Patterns with Layered Taxonomy and Quality Attributes](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=St_b4OUAAAAJ&sortby=pubdate&citation_for_view=St_b4OUAAAAJ:M3ejUd6NZC8C), Yanze Wang, Yiling Huang, Jingyue Li, Shanshan Li, He Zhang, Chenxing Zhong, Xiaodong Liu, Bohan Liu, Yue Liu, Qinghua Lu, Xin Zhou, **TSE 2025**
 - [Refactoring Microservices to Microservices in Support of Evolutionary Design](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=St_b4OUAAAAJ&sortby=pubdate&citation_for_view=St_b4OUAAAAJ:_kc_bZDykSQC), Chenxing Zhong, Shanshan Li, He Zhang, Huang Huang, Lanxin Yang, Yuanfang Cai, **TSE 2025**
