@@ -32,6 +32,7 @@ I am always excited to work with <b>motivated students</b> who share a passion f
 Please contact me at: [chenxingzhong@njust.edu.cn]
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 One paper on interactive software modularization accepted by Journal of Systems and Software (JSS)
 - *2025.09*: &nbsp;🎉🎉 One paper on build dependency fixation accepted by IEEE/ACM International Conference on Automated Software Engineering (ASE)
 - *2025.08*: &nbsp;🎉🎉 One project funded by The National Natural Science Foundation of China (NSFC) 🏆!
 - *2025.04*: &nbsp;🎉🎉 I joined in Nanjing University of Science and Technology as an Associated Professor ✨!
