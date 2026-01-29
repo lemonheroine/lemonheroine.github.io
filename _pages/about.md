@@ -106,10 +106,10 @@ Please contact me at: [chenxingzhong@njust.edu.cn]
 
 # 💬 Invited Talks
 
-- *2025.04*, Glad to announce that I will present our latest findings at the Outstanding Student Forum of Jiangsu Software Conference (2025.04.13)
-- *2025.10*, I am pleased to announce that I will be speaking at the NJSD (Nanjing Software Developer) Conference, where I'll be sharing my latest insights on Software Design for AI (2025.10.28)
-- *2025.11*, Glad to announce that I will present our latest research findings at the CCF ChinaSoft Conference (2025.11.30)
-- *2025.12*, Glad to announce that I will give a talk at Nanjing Ruanjiangu where I look forward to engaging with the local developer community. (2025.12.27)
+- *2025.04*, Glad to announce that I will present our latest findings at the Outstanding Student Forum of Jiangsu Software Conference.
+- *2025.10*, I am pleased to announce that I will be speaking at the NJSD (Nanjing Software Developer) Conference, where I'll be sharing my latest insights on Software Design for AI.
+- *2025.11*, Glad to announce that I will present our latest research findings at the CCF ChinaSoft Conference.
+- *2025.12*, Glad to announce that I will give a talk at Nanjing Ruanjiangu where I look forward to engaging with the local developer community.
 
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
