@@ -81,6 +81,7 @@ Please contact me at: [chenxingzhong@njust.edu.cn]
 
 
 # 🌠 Services
+- Invited reviewer of ACM Computing Survey (CSUR)
 - Invited reviewer of ACM Transactions on Software Engineering and Methodology (TOSEM)
 - Invited reviewer of Transactions on Services Computing (TSC)
 - Invited reviewer of Automated Software Engineering (ASE)
@@ -88,6 +89,14 @@ Please contact me at: [chenxingzhong@njust.edu.cn]
 - Invited reviewer of Information and Software Technology (IST)
 - Invited reviewer of Software: Practice and Experience (SPE)
 - Invited reviewer of Innovations in Systems and Software Engineering (ISSE)
+
+# 💬 Invited Talks
+- *2025.04*, Glad to announce that I will present our latest findings at the Outstanding Student Forum of Jiangsu Software Conference.
+- *2025.10*, I am pleased to announce that I will be speaking at the NJSD (Nanjing Software Developer) Conference, where I'll be sharing my latest insights on Software Design for AI.
+- *2025.11*, Glad to announce that I will present our latest research findings at the CCF ChinaSoft Conference.
+- *2025.12*, Glad to announce that I will give a talk at Nanjing Ruanjiangu where I look forward to engaging with the local developer community.
+
+[//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
 # 🎖 Honors and Awards
 - *2020* Outstanding Minority Student (Top 3%)
@@ -103,15 +112,6 @@ Please contact me at: [chenxingzhong@njust.edu.cn]
 - *2018.09 - 2024.12, Direct Ph.D student, Software Institute, Nanjing University, Nanjing.
 - *2023.11 - 2024.11*, Visiting Ph.D student, Group of the Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence, Groningen University, Groningen.
 - *2014.09 - 2018.06*, Undergraduate, College of Software, Nankai University, Tianjin. 
-
-# 💬 Invited Talks
-
-- *2025.04*, Glad to announce that I will present our latest findings at the Outstanding Student Forum of Jiangsu Software Conference.
-- *2025.10*, I am pleased to announce that I will be speaking at the NJSD (Nanjing Software Developer) Conference, where I'll be sharing my latest insights on Software Design for AI.
-- *2025.11*, Glad to announce that I will present our latest research findings at the CCF ChinaSoft Conference.
-- *2025.12*, Glad to announce that I will give a talk at Nanjing Ruanjiangu where I look forward to engaging with the local developer community.
-
-[//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
 # 💻 Internships
 - *2018.06 - 2018.08*, [Transwarp Technology](https://www.transwarp.cn/), China.
