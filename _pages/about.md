@@ -64,6 +64,8 @@ Please contact me at: [chenxingzhong@njust.edu.cn]
 [//]: # (</div>)
 
 [//]: # (</div>)
+- [What Characterizes Pairwise Modular Smells?](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=St_b4OUAAAAJ&sortby=pubdate&citation_for_view=St_b4OUAAAAJ:qUcmZB5y_30C), Chenxing Zhong, Daniel Feitosa, Paris Avgeriou, Huang Huang, Wei Song, He Zhang, **TSE 2026**
+- [Quality attributes, challenges, and solutions for designing GenAI-enabled systems](https://www.sciencedirect.com/science/article/pii/S0950584926001965), Chenxing Zhong, Huang Huang, Jun Lyv, Shanshan Li, **IST 2026**
 - [EISM: An Interactive and Collaborative Approach for Software Modularization](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=St_b4OUAAAAJ&sortby=pubdate&citation_for_view=St_b4OUAAAAJ:9ZlFYXVOiuMC), Chenxing Zhong, Chao Li, He Zhang, **JSS 2025**
 - [Detecting Build Dependency Errors by Dynamic Analysis of Build Execution against Declaration](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=St_b4OUAAAAJ&sortby=pubdate&citation_for_view=St_b4OUAAAAJ:aqlVkmm33-oC), Jun Lyu, Shanshan Li, Bohan Liu, He Zhang, Guoping Rong, Chenxing Zhong, Xiaodong Liu, **TSE 2025**
 - [Decision Support for Selecting Blockchain-based Application Design Patterns with Layered Taxonomy and Quality Attributes](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=St_b4OUAAAAJ&sortby=pubdate&citation_for_view=St_b4OUAAAAJ:M3ejUd6NZC8C), Yanze Wang, Yiling Huang, Jingyue Li, Shanshan Li, He Zhang, Chenxing Zhong, Xiaodong Liu, Bohan Liu, Yue Liu, Qinghua Lu, Xin Zhou, **TSE 2025**
